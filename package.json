@@ -1,0 +1,16 @@
+{
+  "name": "3weeks-3pages-9th",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "week1": "gulp week1",
+    "week2": "gulp week2",
+    "week3": "gulp week3"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^4.0.2"
+  }
+}
